@@ -1,6 +1,8 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Muhammad%20Anas%20Urooj&fontSize=38&fontColor=ffffff&animation=fadeIn)](#)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:000000&height=160&section=header)](#)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=1BFFFF&width=600&lines=Final-Year+Computer+Science+Student;DevOps+%26+Full-Stack+Developer;Loughborough+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Muhammad+Anas+Urooj)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=1C2541&center=true&vCenter=true&width=600&lines=Final-Year+Computer+Science+Student;DevOps+%26+Full-Stack+Developer;Loughborough+University)](https://git.io/typing-svg)
 
 ### About Me
 
@@ -24,6 +26,6 @@ Final-year Computer Science student at Loughborough University, with DevOps and 
 
 ### Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=120&section=footer)](#)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:000000&height=100&section=footer)](#)
