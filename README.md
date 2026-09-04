@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=2E6F9E&center=false&vCenter=true&width=600&lines=Muhammad+Anas+Urooj)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=0B1F3A&center=false&vCenter=true&width=600&lines=Final-Year+Computer+Science+Student;DevOps+%26+Full-Stack+Developer;Loughborough+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=2E6F9E&center=false&vCenter=true&width=600&lines=Final-Year+Computer+Science+Student;DevOps+%26+Full-Stack+Developer;Loughborough+University)](https://git.io/typing-svg)
 
 ### About Me
 
