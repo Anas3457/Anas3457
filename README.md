@@ -1,8 +1,8 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E6F9E,100:0B1F3A&height=160&section=header)](#)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=0B1F3A&center=true&vCenter=true&width=600&lines=Muhammad+Anas+Urooj)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=false&vCenter=true&width=600&lines=Muhammad+Anas+Urooj)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=2E6F9E&center=true&vCenter=true&width=600&lines=Final-Year+Computer+Science+Student;DevOps+%26+Full-Stack+Developer;Loughborough+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=2E6F9E&center=false&vCenter=true&width=600&lines=Final-Year+Computer+Science+Student;DevOps+%26+Full-Stack+Developer;Loughborough+University)](https://git.io/typing-svg)
 
 ### About Me
 
