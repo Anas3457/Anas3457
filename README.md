@@ -1,16 +1,29 @@
-## Hi there 👋
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Muhammad%20Anas%20Urooj&fontSize=38&fontColor=ffffff&animation=fadeIn)](#)
 
-<!--
-**Anas3457/Anas3457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=1BFFFF&width=600&lines=Final-Year+Computer+Science+Student;DevOps+%26+Full-Stack+Developer;Loughborough+University)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Final-year Computer Science student at Loughborough University, with DevOps and full-stack development experience from a 13-month placement at BMW Group. Currently building out a portfolio ahead of graduate applications: a fraud detection REST API, a documented set of interview prep solutions, and a career site pulling it all together.
+
+### Main Skills
+
+![Skills](https://skillicons.dev/icons?i=java,cs,dotnet,postgres,docker,githubactions,git)
+
+### Currently Learning
+
+![Learning](https://skillicons.dev/icons?i=kubernetes,aws,azure)
+
+### What I'm Building
+
+**Fraud Detection REST API**: a personal project using Java Spring Boot, PostgreSQL, and Docker, built with TDD and a GitHub Actions CI/CD pipeline. Repo link coming soon.
+
+**Interview Prep**: HackerRank problems with my solutions and notes on the reasoning behind them, kept here so I can look back on how my approach has developed. Repo link coming soon.
+
+**Career Site**: a site pulling together my projects, experience, and background for anyone who wants the fuller picture. Live soon.
+
+### Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=120&section=footer)](#)
